@@ -1,0 +1,9 @@
+main.c:72:6:BTN_Center_Handler	8	static
+main.c:75:6:BTN_Up_Handler	8	static
+main.c:78:6:BTN_Down_Handler	8	static
+main.c:81:6:BTN_Left_Handler	8	static
+main.c:84:6:BTN_Right_Handler	8	static
+main.c:87:6:myNotif	8	static
+main.c:96:5:main	16	static
+main.c:138:6:T_SMS	16	static
+main.c:152:6:T_Server	16	static
